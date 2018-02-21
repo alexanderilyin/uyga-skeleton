@@ -1,7 +1,7 @@
 {
     "name": "alexanderilyin/uyga-skeleton",
     "type": "project",
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "description": "A skeleton to start a new uyga project",
     "require": {
         "php": "^7.1.3",
